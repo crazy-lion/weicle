@@ -1,0 +1,14 @@
+use git from git bash only
+this is the safest choice as your path will not be modified at all.you will only be able to use
+the git command line tools from git bash.
+
+use git from the windows command prompt
+this option is considered safe as it only adds some minimal git wrappers to your
+PATH to avoid duttering youer envrironment with optional unix tools.you will be able to 
+use git from both git bash and the windows command prompt.
+
+
+enterprise server address
+
+failed to connect to the host or the host isn't a github enterprise server.
+please make sure that you're entered the host address corectly.
